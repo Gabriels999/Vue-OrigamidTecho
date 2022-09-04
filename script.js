@@ -11,6 +11,10 @@ const vm = new Vue({
         currency: "BRL",
       });
     },
+    reviewNota(estrelas) {
+      let texto = "⭐".repeat(estrelas);
+      return `${texto} estrelas`;
+    },
   },
   methods: {
     fetchProdutos() {
