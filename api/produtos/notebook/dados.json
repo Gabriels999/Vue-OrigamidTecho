@@ -1,0 +1,20 @@
+{
+  "id": "notebook",
+  "nome": "Notebook",
+  "preco": 2999,
+  "descricao": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, quos esse? Dolor asperiores saepe facilis ea vero. Iusto, vitae corrupti eaque ea, explicabo, expedita quae at magnam nemo quia debitis.",
+  "estoque": 12,
+  "img": "./api/produtos/notebook/notebook-foto.jpg",
+  "avaliacoes": [
+    {
+      "nome": "John Doe",
+      "estrelas": 5,
+      "descricao": "Goste muito e chegou rapido"
+    },
+    {
+      "nome": "Jobster Apples",
+      "estrelas": 5,
+      "descricao": "Goste muito e chegou rapido"
+    }
+  ]
+}
